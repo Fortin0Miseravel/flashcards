@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: rgb(83, 27, 214);
     font-family: Bai Jamjuree;
 }
 
@@ -15,4 +15,7 @@ footer p {
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
+}
+#container {
+    display: flex;
 }
